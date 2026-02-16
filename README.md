@@ -10,7 +10,7 @@ A high-performance, reactive E-commerce mobile application built with **Flutter*
 ## 📲 Try It Out
 You can download and install the latest version of the app directly on your Android device.
 
-👉 [**Download Android APK (v1.0.0)**](PASTE_YOUR_GITHUB_RELEASE_LINK_HERE)
+👉 [**Download Android APK (v1.0.0)**](https://github.com/Eyuel-Nigussie/E-commerce-Customer-App/releases/download/v1.0.0/EcomApp_v1.0.apk)
 
 > **Note:** Since this is a portfolio project, you may need to "Allow from this source" when installing the APK on your device.
 
