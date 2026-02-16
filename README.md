@@ -1,6 +1,6 @@
 # 🛒 Flutter E-Commerce Pro
 [![Flutter](https://img.shields.io)](https://flutter.dev)
-[![GetX](https://img.shields.io)](https://pub.dev)
+[![Stripe](https://img.shields.io)](https://stripe.com/payments)
 [![Firebase](https://img.shields.io)](https://firebase.google.com)
 
 A high-performance, reactive E-commerce mobile application built with **Flutter** and **GetX**. This project demonstrates a complete shopping flow, from product discovery to a mock checkout process.
