@@ -22,9 +22,11 @@ Test the flow from product selection to checkout.
 
 ## 📽️ App Demo
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/67ac5752-a098-4d1f-ab92-398253e6fd6e" width="300" />
-</p>
+![App Demo Presentation]:
+
+https://github.com/user-attachments/assets/67ac5752-a098-4d1f-ab92-398253e6fd6e
+
+
 
 ---
 
