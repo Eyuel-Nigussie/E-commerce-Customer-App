@@ -24,9 +24,6 @@ Test the flow from product selection to checkout.
 
 ![App Demo Presentation]:
 
-https://github.com/user-attachments/assets/67ac5752-a098-4d1f-ab92-398253e6fd6e
-
-
 
 ---
 
