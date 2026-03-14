@@ -14,53 +14,66 @@ A high-performance, reactive E-commerce mobile application built with **Flutter*
 ## 📲 Try It Out
 Test the flow from product selection to checkout.
 
-👉 [**Download Android APK (v1.0.0)**](https://github.com/Eyuel-Nigussie/E-commerce-Customer-App/releases/download/v1.0.0/EcomApp_v1.0.apk)
+👉 **Download Android APK (v1.0.0)**  
+https://github.com/Eyuel-Nigussie/E-commerce-Customer-App/releases/download/v1.0.0/EcomApp_v1.0.apk
 
-> **Note:** You may need to "Allow from this source" when installing the APK.
+> **Note:** You may need to enable *"Allow from this source"* when installing the APK.
 
 ---
 
 ## 📽️ App Demo
 
-![App Demo Presentation]:
-
+https://github.com/user-attachments/assets/788a1e3f-9710-4e65-a034-994c08710b1b
 
 ---
 
 ## 🚀 Key Features
 
-* **💳 Secure Stripe Integration:** A fully functional payment gateway. I implemented the Stripe Android SDK to handle secure tokenization and credit card transactions.
-* **💬 Real-time Customer Support:** Integrated an in-app chat system using **Firebase Cloud Firestore**. Users can get instant support, demonstrating real-time data streaming and UI synchronization.
-* **🛒 Reactive Cart System:** High-speed quantity management and price calculations powered by **GetX (Obx)** for a "no-lag" user experience.
-* **🔐 Robust Authentication:** Secure user onboarding via **Firebase Auth**, featuring Email/Password logic and Google Sign-In.
-* **📦 Dynamic Catalog:** Real-time product fetching with categorized views and an optimized search algorithm.
+* **💳 Secure Stripe Integration:**  
+  A fully functional payment gateway using the Stripe Android SDK for secure tokenization and credit card transactions.
+
+* **💬 Real-time Customer Support:**  
+  Integrated in-app chat powered by **Firebase Cloud Firestore**, enabling real-time support and live UI updates.
+
+* **🛒 Reactive Cart System:**  
+  High-speed cart updates and price calculations powered by **GetX (Obx)** for a smooth user experience.
+
+* **🔐 Robust Authentication:**  
+  Secure onboarding using **Firebase Auth**, supporting Email/Password and Google Sign-In.
+
+* **📦 Dynamic Product Catalog:**  
+  Real-time product fetching with categorized browsing and optimized search functionality.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-* **Framework:** [Flutter](https://flutter.dev) (v3.x)
-* **State Management:** [GetX](https://pub.dev/packages/get) (Reactive & Dependency Injection)
-* **Local Storage:** [GetStorage](https://pub.dev/packages/get_storage) (for session persistence)
+* **Framework:** Flutter (v3.x)
+* **State Management:** GetX (Reactive state management & dependency injection)
+* **Local Storage:** GetStorage (session persistence)
 
-### Backend & Integration
-* **Payments:** [Stripe API](https://stripe.com) 
-* **Database & Auth:** [Firebase](https://firebase.google.com) (Firestore, Auth, Storage)
-* **Support System:** Firebase Real-time data streams for the chat feature.
+### Backend & Integrations
+* **Payments:** Stripe API  
+* **Database & Auth:** Firebase (Firestore, Auth, Storage)  
+* **Real-time Communication:** Firebase Firestore streaming
 
 ---
 
 ## 🏗️ Architecture
-The project follows a **Controller-based MVC** (Model-View-Controller) pattern:
-* **Models:** Clean data structures with JSON serialization.
-* **Views:** Modular and reusable Flutter widgets.
-* **Controllers:** Decoupled business logic and state management.
+
+The project follows a **Controller-based MVC architecture**:
+
+* **Models:** Clean data structures with JSON serialization  
+* **Views:** Modular and reusable Flutter widgets  
+* **Controllers:** Business logic and state management using GetX
 
 ---
 
 ### 📚 Note de l'auteur (Author's Note)
-*Pendant que je codais ce projet, j'ai aussi appris le français !* (While I was coding this project, I was also learning French!) 
+
+*Pendant que je codais ce projet, j'ai aussi appris le français !*  
+(While I was coding this project, I was also learning French!)
 
 ---
 
