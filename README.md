@@ -15,8 +15,7 @@ A high-performance, reactive E-commerce mobile application built with **Flutter*
 Test the flow from product selection to checkout.
 
 👉 **Download Android APK (v1.0.0)**  
-https://github.com/Eyuel-Nigussie/E-commerce-Customer-App/releases/download/v1.0.0/EcomApp_v1.0.apk
-
+You can find the app on the release( right side of your screen)
 > **Note:** You may need to enable *"Allow from this source"* when installing the APK.
 
 ---
